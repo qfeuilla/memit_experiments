@@ -1,1 +1,0 @@
-It would be nice to have a documentation on the hook (how to create one, ...)
